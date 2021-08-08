@@ -1,14 +1,16 @@
-# test plan and test ouput
+# Test plan and activities
+Testing Activities
+Components Validation
+*Device Hardware 
+*Sensor Testing
+*Command Testing
+Function Validation
+*Basic device Testing
+*Testing between IOT devices
+Performance Validation
+*Data transmit Frequency
+Data Validation
+*Validate data packets
+Communication Validation
+*Interoperability
 
-## Integration test (High level test)
-* quantity convertor function - calling file extraction function and conversion function - Scenario based test - Passing
-
-## Unit Test (Low level test)
-* length options function - Requirement based test - Passing
-* area options function - Requirement based test - Passing
-* volume options function - Requirement based test - Passing
-* mass options function - Requirement based test - Passing
-* speed options function - Requirement based test - Passing
-* file extraction function - Scenario based test - Passing
-* conversion function - Scenario based test - Passing
-* print output table - - Scenario based test - Passing
