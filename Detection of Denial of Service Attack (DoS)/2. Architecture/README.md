@@ -5,7 +5,7 @@
 ### High Level Behavioural Diagram
 ![](https://github.com/Ireneltts/Detection-of-DoS-attack-in-Wi-Fi-Networks/blob/main/Detection%20of%20Denial%20of%20Service%20Attack%20(DoS)/2.%20Architecture/Behavior%20Diagram/High%20Level%20Design.PNG)
 ### Low Level Behavioural Diagram
-![](https://github.com/Ireneltts/Detection-of-DoS-attack-in-Wi-Fi-Networks/blob/main/Detection%20of%20Denial%20of%20Service%20Attack%20(DoS)/2.%20Architecture/Behavior%20Diagram/High%20Level%20Design.PNG)
+![](https://github.com/Ireneltts/Detection-of-DoS-attack-in-Wi-Fi-Networks/blob/main/Detection%20of%20Denial%20of%20Service%20Attack%20(DoS)/2.%20Architecture/Behavior%20Diagram/Low%20Level%20Design.PNG)
 
 ## System Diagrams
 
