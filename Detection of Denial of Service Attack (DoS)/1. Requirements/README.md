@@ -18,68 +18,65 @@ Proposed model is implemented by using ESP8266 Wi-Fi Module. It can detect these
 WPA2 Protection
 
 ## SWOT ANALYSIS
-S(STRENGTH)
+#### S(STRENGTH)
 •Easy to detect the attack without disturbing the users
 •Users will continue the access in the network without any failure
 •Reduction in operation cost 
 
-W(WEAKNESS)
+#### W(WEAKNESS)
 •Uses only localhost
 •Cannot detect any other attacks
 •Error occurs if IoT device (NodeMCU) is faulty
 
-O(OPPORTUNITIES)
+#### O(OPPORTUNITIES)
 •Efficient Analysis of attack and its features
 
-T(THREATS)
+#### T(THREATS)
 •Can be vulnerable to other form of attacks
 
+![](https://github.com/Ireneltts/Detection-of-DoS-attack-in-Wi-Fi-Networks/blob/main/Detection%20of%20Denial%20of%20Service%20Attack%20(DoS)/1.%20Requirements/SWOT%20Analysis.PNG)
 
-# 4W&#39;s and 1&#39;H
+
+# 4W&1H
 
 ## Who:
-
-
+Ethical Hacker/Normal users who would want to analyse the features of DoS attacks. 
 ## What:
-
-
-
+To anlayse the attack pattern and detect and later prevent such attacks
 ## When:
-
-
-
+While using Wi-Fi networks
 ## Where:
-
-
+In Wi-Fi communication
 ## How:
-
+Using Python and NodeMCU (IoT)
 
 
 # Detail requirements
-The general functional requirements of this system are:
+
+### The general functional requirements of this system are:
 •Monitoring the users in the Wi-Fi network
 •Detecting the duplicate frames
 •Sending alerts when duplicate frames are detected
 
-Hardware Requirements
+### Hardware Requirements
 •Power source and power control
 •Sensor
 •Wireless Communication
 
-Software Requirements
+### Software Requirements
 • Wireshark
 • Python
 • Scapy-Module
 • Ardunio
 
-The general non-functional requirements of this system are:
+### The general non-functional requirements of this system are:
 • Power Supply to the IoT sensors
 • Computation Time to find the attacker
 • Connection with the NodeMCU
 • Low cost
 • Portable
 
-Other requirements of this project for designing this model.
+### Other requirements of this project for designing this model.
 • Availability: The detective mechanism should be available on all the time as many
 users in the network are using AP for the Wi-Fi connection.
 • Correctness: The detector should able to reach the Wi-Fi networks for detecting the
