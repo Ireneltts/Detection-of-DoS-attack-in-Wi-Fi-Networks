@@ -1,16 +1,16 @@
 # Test plan and activities
-Testing Activities
-Components Validation
+## Testing Activities
+### Components Validation
 *Device Hardware 
 *Sensor Testing
 *Command Testing
-Function Validation
+### Function Validation
 *Basic device Testing
 *Testing between IOT devices
-Performance Validation
+### Performance Validation
 *Data transmit Frequency
-Data Validation
+### Data Validation
 *Validate data packets
-Communication Validation
+### Communication Validation
 *Interoperability
 
