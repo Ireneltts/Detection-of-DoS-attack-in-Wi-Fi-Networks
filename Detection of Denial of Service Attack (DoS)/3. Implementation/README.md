@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f550dcd17acc4d17a95b0dab41f4c566)](https://www.codacy.com/gh/Ireneltts/Detection-of-DoS-attack-in-Wi-Fi-Networks/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ireneltts/Detection-of-DoS-attack-in-Wi-Fi-Networks&amp;utm_campaign=Badge_Grade)
